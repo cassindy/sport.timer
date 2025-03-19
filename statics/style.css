@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(59, 59, 59);
+}
+div.setting_timer{
+    display: flex;
+    flex-direction: row;
+}
+input.timeInsert{
+    width:2em;
+    font-size:5em;
+    align-content:center;
+}
